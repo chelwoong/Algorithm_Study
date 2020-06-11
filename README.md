@@ -1,7 +1,5 @@
 # 알고리즘 저장소🔥
 
-> 코테 뿌시는 그날까지 
-
 # Contributor
 
 - [Woongs](https://github.com/chelwoong)
