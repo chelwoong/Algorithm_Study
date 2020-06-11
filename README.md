@@ -13,9 +13,10 @@
 - [Recursion](./Recursion)
 
 
-# [Greedy](https://www.acmicpc.net/problem/tag/그리디%20알고리즘)
+# [Greedy](./Greedy)
 
-|문제      | Swift|JS|정리|
+
+|[문제](https://www.acmicpc.net/problem/tag/그리디%20알고리즘)      | Swift|JS|정리|
 |:---:    |:---:|:---:|:---:|
 |BOJ_11399  |  |  |  |
 |BOJ_11047  |  |  |  |
