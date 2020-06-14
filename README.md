@@ -31,8 +31,8 @@
 |BOJ_1080   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/129) |
 |BOJ_2352   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/132) | 
 |BOJ_1138   | ⭕️ |  |  |
-|BOJ_1783   |  |  |  |
+|BOJ_1783   | ⭕️ |  |  |
 |BOJ_2437   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/133) |
-|BOJ_1449   |  |  |  |
+|BOJ_1449   | ⭕️ |  |  |
 |BOJ_1700   |  |  |  |
 |BOJ_1543   |  |  |  |
