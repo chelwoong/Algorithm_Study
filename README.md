@@ -63,13 +63,13 @@
 |BOJ_1138   | ⭕️ |  |  |
 |BOJ_1783   | ⭕️ |  |  |
 |BOJ_2437   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/133) |
-|BOJ_1449   | ⭕️ |  |  |
-|BOJ_1543   | ⭕️ |  |  |
-|BOJ_1700   |  |  |  |
-|BOJ_1969   | ⭕️ |  |  |
-|BOJ_1202   |  |  |  |
-|BOJ_1507   |  |  |  |
-|BOJ_3109   |  |  |  |
+|BOJ_1449   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/134) |
+|BOJ_1543   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/135) |
+|BOJ_1700   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/139) |
+|BOJ_1969   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/136) |
+|BOJ_1202   | ❌⏱ |  |  |
+|BOJ_1507   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/141) |
+|BOJ_3109   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/142) |
 |BOJ_9576   |  |  |  |
 |BOJ_2812   |  |  |  |
 |BOJ_1439   |  |  |  |
