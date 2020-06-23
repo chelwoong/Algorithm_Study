@@ -84,8 +84,8 @@
 |BOJ_1507   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/141) |
 |BOJ_3109   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/142) |
 |BOJ_9576   |  |  |  |
-|BOJ_2812   |  |  |  |
-|BOJ_1439   |  |  |  |
+|BOJ_2812   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/143) |
+|BOJ_1439   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/144) |
 |BOJ_8980   |  |  |  |
 |BOJ_1041   |  |  |  |
 |BOJ_1343   |  |  |  |
