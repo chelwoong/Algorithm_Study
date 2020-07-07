@@ -4,6 +4,7 @@
  최대 무게 --> 가방 최소무게 부터 찾아서 담는다.
  */
 
+// MARK: - Priority Queue 시간초과
 let n = readLine()!.split(separator: " ").map{Int($0)!}
 var jewerly = [[Int]]()
 var back = [Int]()
@@ -192,4 +193,57 @@ public struct PriorityQueue<T> {
 }
 
 
+
+// MARK: - 이진탐색 시간초과
+
+let nk = readLine()!.split(separator: " ").map{Int($0)!}
+
+var jewels = [[Int]]()
+var bags = [Int]()
+//var isFilledBags = [Bool](repeating: false, count: nk[1])
+var totalCost = 0
+
+for _ in 0..<nk[0] {
+  let jewel = readLine()!.split(separator: " ").map{Int($0)!}
+  jewels.append(jewel)
+}
+for _ in 0..<nk[1] {
+  bags.append(Int(readLine()!)!)
+}
+jewels.sort(by: { $0[1] > $1[1] })
+bags.sort(by: <)
+
+func findMinWeightIndex(of jewel: [Int], in bags: [Int]) -> Int? {
+  // 보석 무게 jewel[0] 보다 처음으로 같거나 커지는 bag 찾기
+  // lower bounds
+  var low = 0
+  var high = bags.count
+  let jewelWeight = jewel[0]
+
+  while low < high {
+    let mid = (low + high)/2
+
+    if jewelWeight <= bags[mid] {
+      // 왼쪽
+      high = mid
+    } else {
+      low = mid+1
+    }
+  }
+
+  if low >= bags.count {
+    return nil
+  } else {
+    return low
+  }
+}
+
+for jewel in jewels {
+  // bag에서 이진탐색으로 들어갈 위치 탐색
+  if let bagIndex = findMinWeightIndex(of: jewel, in: bags) {
+    bags.remove(at: bagIndex)
+    totalCost += jewel[1]
+  }
+}
+print(totalCost)
 
