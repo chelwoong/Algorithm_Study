@@ -8,6 +8,7 @@
 # Category
 
 - [Brute Force](#brute-force)
+- [DFS](#dfs)
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
 - [Recursion](./Recursion)
@@ -37,6 +38,15 @@
 |BOJ_1120   |  |  |  |
 |BOJ_1748   |  |  |  |
 |BOJ_15684  |  |  |  |
+
+# [Dynamic Programming](./DFS)
+
+|[문제](https://www.acmicpc.net/problem/tag/DFS)| Swift|JS|정리|
+|:---:|:---:|:---:|:---:|
+|BOJ_1260  |  |  |  |
+|BOJ_2667   |  |  |  |
+|BOJ_1012   |  |  |  |
+|BOJ_1987  | ❌⏱ |  |  |
 
 
 # [Dynamic Programming](./DP)
