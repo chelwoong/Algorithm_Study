@@ -36,7 +36,7 @@
 |BOJ_1107   |  |  |  |
 |BOJ_15683  |  |  |  |
 |BOJ_1120   |  |  |  |
-|BOJ_1748   |  |  |  |
+|BOJ_1748   | ⭕️ |  |  |
 |BOJ_15684  |  |  |  |
 
 # [Dynamic Programming](./DFS)
