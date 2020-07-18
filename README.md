@@ -12,8 +12,9 @@
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
 - [Recursion](./Recursion)
+- [Sort](#sort)
 - [프로그래머스](#프로그래머스)
-# [Brute Force](./Brute%20Force)
+# [Brute Force](./완전탐색)
 
 |[문제](https://www.acmicpc.net/problem/tag/브루트%20포스)| Swift|JS|정리|
 |:---:|:---:|:---:|:---:|
@@ -115,6 +116,19 @@
 |BOJ_8980   |  |  |  |
 |BOJ_1041   | ⭕️ |  |  |
 |BOJ_1343   |  |  |  |
+
+# [Sort](./정렬)
+
+|[문제](https://www.acmicpc.net/problem/tag/정렬)| Swift|JS|정리|
+|:---:|:---:|:---:|:---:|
+|BOJ_1427     | ⭕️ |  |  |
+|BOJ_10989   |  |  |  |
+|BOJ_1026     | ⭕️ |  |  |
+|BOJ_1181     | ⭕️ |  |  |
+|BOJ_11650   |  |  |  |
+|BOJ_10814   |  |  |  |
+|BOJ_11651   |  |  |  |
+|BOJ_11004   |  |  |  |
 
 # [프로그래머스](./프로그래머스)
 
