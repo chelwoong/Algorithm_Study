@@ -33,7 +33,7 @@
 |BOJ_14889  |  |  |  |
 |BOJ_14500  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/153) |
 |BOJ_15686  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/151) |
-|BOJ_13460  |  |  |  |
+|BOJ_13460  | ⭕️ |  |  |
 |BOJ_12100  |  |  |  |
 |BOJ_1107   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/154) |
 |BOJ_15683  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/155) |
