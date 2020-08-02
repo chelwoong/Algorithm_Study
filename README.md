@@ -17,44 +17,44 @@
 - [프로그래머스](#프로그래머스)
 # [Brute Force](./완전탐색)
 
-|[문제](https://www.acmicpc.net/problem/tag/브루트%20포스)| Swift|JS|정리|
-|:---:|:---:|:---:|:---:|
-|BOJ_1065   | ⭕️ |  |  |
-|BOJ_2309   | ⭕️ |  |  |
-|BOJ_2231   | ⭕️ |  |  |
-|BOJ_14501  | ❌ |  |  |
-|BOJ_7568   | ⭕️ |  |  |
-|BOJ_14502  | ⭕️ |  |  |
-|BOJ_6603   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/152) |
-|BOJ_14888  | ⭕️ |  |  |
-|BOJ_1018   |  |  |  |
-|BOJ_1966   |  |  |  |
-|BOJ_1182   |  |  |  |
-|BOJ_14889  |  |  |  |
-|BOJ_14500  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/153) |
-|BOJ_15686  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/151) |
-|BOJ_13460  | ⭕️ |  |  |
-|BOJ_12100  |  |  |  |
-|BOJ_1107   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/154) |
-|BOJ_15683  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/155) |
-|BOJ_1120   |  |  |  |
-|BOJ_1748   | ⭕️ |  |  |
-|BOJ_15684  |  |  |  |
-|BOJ_10448  |  |  |  |
-|BOJ_3085 |  |  |  |
-|BOJ_2503  |  |  |  |
-|BOJ_1051  | ⭕️ |  |  |
-|BOJ_1038  |  |  |  |
-|BOJ_1062  |  |  |  |
-|BOJ_7453  |  |  |  |
-|BOJ_1072  |  |  |  |
-|BOJ_6679  |  |  |  |
-|BOJ_2981  |  |  |  |
-|BOJ_1213  |  |  |  |
-|BOJ_1019  |  |  |  |
-|BOJ_2858  |  |  |  |
-|BOJ_1405  |  |  |  |
-|BOJ_4641  |  |  |  |
+|[문제](https://www.acmicpc.net/problem/tag/브루트%20포스)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ_1065   | ⭕️ |  |  |  |
+|BOJ_2309   | ⭕️ |  |  |  |
+|BOJ_2231   | ⭕️ |  |  |  |
+|BOJ_14501  | ❌ |  |  |  |
+|BOJ_7568   | ⭕️ |  |  |  |
+|BOJ_14502  | ⭕️ |  |  |  |
+|BOJ_6603   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/152) |
+|BOJ_14888  | ⭕️ |  |  |  |
+|BOJ_1018   |  |  |  |  |
+|BOJ_1966   |  |  |  |  |
+|BOJ_1182   |  |  |  |  |
+|BOJ_14889  |  |  |  |  |
+|BOJ_14500  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/153) |
+|BOJ_15686  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/151) |
+|BOJ_13460  | ⭕️ |  |  |  |
+|BOJ_12100  |  |  |  |  |
+|BOJ_1107   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/154) |
+|BOJ_15683  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/155) |
+|BOJ_1120   |  |  |  |  |
+|BOJ_1748   | ⭕️ |  |  |  |
+|BOJ_15684  |  |  |  |  |
+|BOJ_10448  |  |  |  |  |
+|BOJ_3085 |  |  |  |  |
+|BOJ_2503  |  |  |  |  |
+|BOJ_1051  | ⭕️ |  |  |  |
+|BOJ_1038  |  |  |  |  |
+|BOJ_1062  |  |  |  |  |
+|BOJ_7453  |  |  |  |  |
+|BOJ_1072  |  |  |  |  |
+|BOJ_6679  |  |  |  |  |
+|BOJ_2981  |  |  |  |  |
+|BOJ_1213  |  |  |  |  |
+|BOJ_1019  |  |  |  |  |
+|BOJ_2858  |  |  |  |  |
+|BOJ_1405  |  |  |  |  |
+|BOJ_4641  |  |  |  |  |
 
 
 # [DFS](./DFS)
