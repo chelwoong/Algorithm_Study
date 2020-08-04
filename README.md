@@ -85,38 +85,38 @@
 # [Greedy](./Greedy)
 
 
-|[문제](https://www.acmicpc.net/problem/tag/그리디%20알고리즘)      | Swift|JS|정리|
-|:---:    |:---:|:---:|:---:|
-|BOJ_11399  | ⭕️ |  ⭕️  |
-|BOJ_11047  |  |  ⭕️  |
-|BOJ_1931   |  |  |  |
-|BOJ_5585   |  |  |  |
-|BOJ_2217   |  |  |  |
-|BOJ_10610  |  |  |  |
-|BOJ_1541   |  |  |  |
-|BOJ_2875   |  |  |  |
-|[BOJ_1120](https://www.acmicpc.net/problem/1120)   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/123) |
-|BOJ_1946   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/124) |
-|BOJ_1049   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/125) |
-|BOJ_2529   | ❌ |  |  |
-|BOJ_1080   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/129) |
-|BOJ_2352   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/132) | 
-|BOJ_1138   | ⭕️ |  |  |
-|BOJ_1783   | ⭕️ |  |  |
-|BOJ_2437   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/133) |
-|BOJ_1449   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/134) |
-|BOJ_1543   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/135) |
-|BOJ_1700   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/139) |
-|BOJ_1969   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/136) |
-|BOJ_1202   | ❌⏱ |  |  |
-|BOJ_1507   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/141) |
-|BOJ_3109   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/142) |
-|BOJ_9576   |  |  |  |
-|BOJ_2812   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/143) |
-|BOJ_1439   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/144) |
-|BOJ_8980   | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/156)  |
-|BOJ_1041   | ⭕️ |  |  |
-|BOJ_1343   |  |  |  |
+|[문제](https://www.acmicpc.net/problem/tag/그리디%20알고리즘)| Swift|JS|PY|정리|
+|:---:    |:---:|:---:|:---:|:---:|
+|BOJ_11399  | ⭕️ |  ⭕️  |  |
+|BOJ_11047  |  |  ⭕️  |  |
+|BOJ_1931   |  |  |  |  |
+|BOJ_5585   |  |  |  |  |
+|BOJ_2217   |  |  |  |  |
+|BOJ_10610  |  |  |  |  |
+|BOJ_1541   |  |  |  |  |
+|BOJ_2875   |  |  |  |  |
+|[BOJ_1120](https://www.acmicpc.net/problem/1120)   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/123) |
+|BOJ_1946   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/124) |
+|BOJ_1049   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/125) |
+|BOJ_2529   | ❌ |  |  |  |
+|BOJ_1080   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/129) |
+|BOJ_2352   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/132) | 
+|BOJ_1138   | ⭕️ |  |  |  |
+|BOJ_1783   | ⭕️ |  |  |  |
+|BOJ_2437   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/133) |
+|BOJ_1449   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/134) |
+|BOJ_1543   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/135) |
+|BOJ_1700   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/139) |
+|BOJ_1969   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/136) |
+|BOJ_1202   | ❌⏱ |  |  |  |
+|BOJ_1507   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/141) |
+|BOJ_3109   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/142) |
+|BOJ_9576   |  |  |  |  |
+|BOJ_2812   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/143) |
+|BOJ_1439   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/144) |
+|BOJ_8980   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/156)  |
+|BOJ_1041   | ⭕️ |  |  |  |
+|BOJ_1343   |  |  |  |  |
 
 # [Sort](./정렬)
 
