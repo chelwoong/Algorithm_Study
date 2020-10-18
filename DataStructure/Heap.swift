@@ -23,7 +23,7 @@ protocol Heapable {
     mutating func remove(at index: Int) -> T?
 }
 
-struct Heap<T: Comparable>: Heapable {
+struct Heap<T>: Heapable {
     
     typealias T = T
     var nodes = [T]()
@@ -58,11 +58,19 @@ struct Heap<T: Comparable>: Heapable {
         return nodes.first
     }
     
+    mutating func replace(index i: Int, value: T) {
+        guard 0..<nodes.count ~= i else { return }
+        
+        remove(at: i)
+        insert(value)
+    }
+    
     mutating func insert(_ value: T) {
         nodes.append(value)
         shiftUp(nodes.count-1)
     }
     
+    @discardableResult
     mutating func remove() -> T? {
         guard !nodes.isEmpty else { return nil }
         
@@ -76,6 +84,7 @@ struct Heap<T: Comparable>: Heapable {
         }
     }
     
+    @discardableResult
     mutating func remove(at index: Int) -> T? {
         guard 0..<nodes.count ~= index else { return nil }
         
@@ -136,5 +145,20 @@ struct Heap<T: Comparable>: Heapable {
     
     private mutating func shiftDown(_ index: Int) {
         shiftDown(from: index, until: nodes.endIndex)
+    }
+}
+
+// MARK: - Searching
+
+extension Heap where T: Equatable {
+    
+    func index(of node: T) -> Int? {
+        return nodes.firstIndex(of: node)
+    }
+    
+    @discardableResult
+    mutating func remove(node: T) -> T? {
+        guard let index = nodes.firstIndex(of: node) else { return nil }
+        return nodes.remove(at: index)
     }
 }
