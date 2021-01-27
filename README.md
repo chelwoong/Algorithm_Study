@@ -9,6 +9,7 @@
 # Category
 
 - [Brute Force](#brute-force)
+- [DataStructure](#datastructure)
 - [DFS](#dfs)
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
@@ -56,6 +57,11 @@
 |BOJ_1405  |  |  |  |  |
 |BOJ_4641  |  |  |  |  |
 
+# [DataStructure](./DataStructure)
+
+|[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ_3190_뱀  | ⭕️ |  |  |  |
 
 # [DFS](./DFS)
 
@@ -117,6 +123,8 @@
 |BOJ_8980   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/156)  |
 |BOJ_1041   | ⭕️ |  |  |  |
 |BOJ_1343   |  |  |  |  |
+|BOJ_13904_과제   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/217) |
+
 
 # [Sort](./정렬)
 
