@@ -15,6 +15,7 @@
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
 - [Recursion](./Recursion)
+- [Simulation](#simulation)
 - [Sort](#sort)
 - [프로그래머스](#프로그래머스)
 
@@ -137,6 +138,12 @@
 |BOJ_1343   |  |  |  |  |
 |BOJ_13904_과제   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/217) |
 
+# [Simulation](./시뮬레이션)
+
+|[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=141&algo_if=and)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ_15683   | ⭕️ |  |  |  |
+|BOJ_18808   |  |  |  |  |
 
 # [Sort](./정렬)
 
