@@ -143,7 +143,8 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=141&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ_15683   | ⭕️ |  |  |  |
-|BOJ_18808   |  |  |  |  |
+|BOJ_18808   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/236) |
+|BOJ_12100   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/237) |
 
 # [Sort](./정렬)
 
