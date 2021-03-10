@@ -8,6 +8,7 @@
 
 # Category
 
+- [BFS](#bfs)
 - [Binary Search](#binary-search)
 - [Brute Force](#brute-force)
 - [DataStructure](#datastructure)
@@ -18,6 +19,15 @@
 - [Simulation](#simulation)
 - [Sort](#sort)
 - [프로그래머스](#프로그래머스)
+
+
+# [BFS](./BFS)
+
+|[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=126&algo_if=and)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ_1389   | ⭕️ |  |  |  |
+|BOJ_7569   | ⭕️ |  |  |  |
+|BOJ_16236   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/238) |
 
 # [Binary Search](./이분탐색)
 
