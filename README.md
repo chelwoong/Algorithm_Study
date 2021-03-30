@@ -47,6 +47,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ_1065   | ⭕️ |  |  |  |
 |BOJ_2309   | ⭕️ |  |  |  |
+|BOJ_2210   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/252) |
 |BOJ_2231   | ⭕️ |  |  |  |
 |BOJ_14501  | ❌ |  |  |  |
 |BOJ_7568   | ⭕️ |  |  |  |
@@ -66,11 +67,15 @@
 |BOJ_1120   |  |  |  |  |
 |BOJ_1748   | ⭕️ |  |  |  |
 |BOJ_15684  |  |  |  |  |
+|BOJ_16637  |  |  |  | [🧑‍💻](https://woongsios.tistory.com/250) |
+|BOJ_17136  |  |  |  | [🧑‍💻](https://woongsios.tistory.com/248) |
+|BOJ_17406  |  |  |  | [🧑‍💻](https://woongsios.tistory.com/251) |
+|BOJ_171471  |  |  |  | [🧑‍💻](https://woongsios.tistory.com/249) |
 |BOJ_10448  |  |  |  |  |
 |BOJ_3085 |  |  |  |  |
 |BOJ_2503  |  |  |  |  |
 |BOJ_1051  | ⭕️ |  |  |  |
-|BOJ_1038  |  |  |  |  |
+|BOJ_1038  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/247) |
 |BOJ_1062  |  |  |  |  |
 |BOJ_7453  |  |  |  |  |
 |BOJ_1072  |  |  |  |  |
@@ -102,6 +107,8 @@
 
 |[문제](https://www.acmicpc.net/problem/tag/다이나믹%20프로그래밍)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 1520   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/254) |
+|BOJ 12865   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/253) |
 |BOJ_1463   | ⭕️ |  |  |  |
 |BOJ_9095   |  |  |  |  |
 |BOJ_1003   |  |  |  |  |
@@ -181,6 +188,7 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=120&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ_1068   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/244) |
+|BOJ_11437   | ⭕️ |  |  |  |
 |BOJ_2263   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/246) |
 |BOJ_5639   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/245) |
 |BOJ_1967   | ⭕️ |  |  |  |
