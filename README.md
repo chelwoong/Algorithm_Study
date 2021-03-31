@@ -35,10 +35,14 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=solvedac_asc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=12&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
-|BOJ_15810   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/230) |
-|BOJ_13423   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/231) |
+|BOJ_1939   | ⭕️ |  |  |  |
 |BOJ_2110   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/232) |
+|BOJ_2143   | ⭕️ |  |  |  |
+|BOJ_3020   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/255) |
+|BOJ_7453   | ⭕️ |  |  |  |
 |BOJ_12015   | ⭕️ |  |  |  |
+|BOJ_13423   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/231) |
+|BOJ_15810   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/230) |
 
 
 # [Brute Force](./완전탐색)
