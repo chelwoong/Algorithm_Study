@@ -35,6 +35,7 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=solvedac_asc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=12&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 2632   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/257) |
 |BOJ_1939   | ⭕️ |  |  |  |
 |BOJ_1981   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/256) |
 |BOJ_2110   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/232) |
@@ -50,6 +51,8 @@
 
 |[문제](https://www.acmicpc.net/problem/tag/브루트%20포스)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 17779   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/258) |
+|BOJ 17825   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/259) |
 |BOJ_1065   | ⭕️ |  |  |  |
 |BOJ_2309   | ⭕️ |  |  |  |
 |BOJ_2210   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/252) |
