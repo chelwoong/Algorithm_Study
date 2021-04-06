@@ -18,6 +18,7 @@
 - [Recursion](./Recursion)
 - [Simulation](#simulation)
 - [Sort](#sort)
+- [Stack](#stack)
 - [프로그래머스](#프로그래머스)
 
 
@@ -35,6 +36,7 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=solvedac_asc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=12&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 1450   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/260) |
 |BOJ 2632   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/257) |
 |BOJ_1939   | ⭕️ |  |  |  |
 |BOJ_1981   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/256) |
@@ -190,6 +192,12 @@
 |BOJ_10814   |  |  |  |  |
 |BOJ_11651   |  |  |  |  |
 |BOJ_11004   |  |  |  |  |
+
+# [Stack](./Stack)
+
+|[문제](https://www.acmicpc.net/problem/tag/정렬)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ_17298     | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/261) |
 
 # [Tree](./Tree)
 
