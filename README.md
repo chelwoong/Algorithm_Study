@@ -15,6 +15,7 @@
 - [DFS](#dfs)
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
+- [Graph](#graph)
 - [Recursion](./Recursion)
 - [Simulation](#simulation)
 - [Sort](#sort)
@@ -128,7 +129,12 @@
 |BOJ_1932   |  |  |  |  |
 |BOJ_2193   |  |  |  |  |
 
+# [Graph](./Graph)
 
+
+|[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)| Swift|JS|PY|정리|
+|:---:    |:---:|:---:|:---:|:---:|
+|BOJ 1916  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/262) |
 
 # [Greedy](./Greedy)
 
