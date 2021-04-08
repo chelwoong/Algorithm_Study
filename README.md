@@ -28,6 +28,7 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=126&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 13549   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/264) |
+|BOJ 16234   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/268) |
 |BOJ_1389   | ⭕️ |  |  |  |
 |BOJ_2589   | ⭕️ |  |  |  |
 |BOJ_7569   | ⭕️ |  |  |  |
@@ -104,6 +105,7 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 1715  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/266) |
+|BOJ 2042  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/270) |
 |BOJ_3190_뱀  | ⭕️ |  |  |  |
 
 # [DFS](./DFS)
@@ -145,6 +147,7 @@
 |[문제](https://www.acmicpc.net/problem/tag/그리디%20알고리즘)| Swift|JS|PY|정리|
 |:---:    |:---:|:---:|:---:|:---:|
 |BOJ 1202  | ⭕️ |  | | [🧑‍💻](https://woongsios.tistory.com/267) |
+|BOJ 11000  | ⭕️ |  | | [🧑‍💻](https://woongsios.tistory.com/271) |
 |BOJ_11399  | ⭕️ |  ⭕️  |  |
 |BOJ_11047  |  |  ⭕️  |  |
 |BOJ_1931   |  |  |  |  |
