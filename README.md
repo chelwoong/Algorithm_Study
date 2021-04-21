@@ -29,6 +29,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 13549   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/264) |
 |BOJ 16234   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/268) |
+|BOJ 16920   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/273) |
 |BOJ_1389   | ⭕️ |  |  |  |
 |BOJ_2589   | ⭕️ |  |  |  |
 |BOJ_7569   | ⭕️ |  |  |  |
@@ -123,7 +124,13 @@
 |[문제](https://www.acmicpc.net/problem/tag/다이나믹%20프로그래밍)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 1520   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/254) |
+|BOJ 1915   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/277) |
+|BOJ 1937   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/276) |
+|BOJ 2096   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/278) |
+|BOJ 2629   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/272) |
+|BOJ 9252   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/279) |
 |BOJ 12865   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/253) |
+|BOJ 17070   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/280) |
 |BOJ_1463   | ⭕️ |  |  |  |
 |BOJ_9095   |  |  |  |  |
 |BOJ_1003   |  |  |  |  |
@@ -138,6 +145,8 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)| Swift|JS|PY|정리|
 |:---:    |:---:|:---:|:---:|:---:|
+|BOJ 1005  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/275) |
+|BOJ 1238  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/274) |
 |BOJ 1916  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/262) |
 |BOJ 11404  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/265) |
 
@@ -260,8 +269,14 @@
 
 |Lv3| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+| 가장 긴 펠린드롬| ⭕️ |  |  |  |
 | 가장 먼 노드 | ⭕️ |  |  |  |
+| 경주로 건설 | ⭕️ |  |  |  |
+| 길 찾기 게임 | ⭕️ |  |  |  |
+| 보석 쇼핑 | ⭕️ |  |  |  |
 | 순위 | ⭕️ |  |  |  |
+| 숫자 게임 | ⭕️ |  |  |  |
+| 자물쇠와 열쇠 | ⭕️ |  |  |  |
 | 종이접기 | ⭕️ |  |  |  |
 
 
