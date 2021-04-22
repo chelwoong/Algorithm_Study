@@ -20,6 +20,7 @@
 - [Simulation](#simulation)
 - [Sort](#sort)
 - [Stack](#stack)
+- [String](#string)
 - [프로그래머스](#프로그래머스)
 
 
@@ -220,6 +221,14 @@
 |[문제](https://www.acmicpc.net/problem/tag/정렬)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ_17298     | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/261) |
+
+# [Stack](./문자열)
+
+|[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=11%2C12%2C13%2C14%2C15&algo=158&algo_if=and)| Swift|JS|PY|정리|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ 1786 찾기     | ⭕️ |  |  |  |
+|BOJ 1958 LCS3     | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/286) |
+|BOJ 5430 AC     | ⭕️ |  |  |  |
 
 # [Tree](./Tree)
 
