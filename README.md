@@ -108,6 +108,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 1715  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/266) |
 |BOJ 2042  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/270) |
+|BOJ 2493  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/287) |
 |BOJ_3190_뱀  | ⭕️ |  |  |  |
 
 # [DFS](./DFS)
