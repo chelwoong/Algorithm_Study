@@ -43,6 +43,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 1450   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/260) |
 |BOJ 2632   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/257) |
+|BOJ 13397 | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/257) |
 |BOJ_1939   | ⭕️ |  |  |  |
 |BOJ_1981   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/256) |
 |BOJ_2110   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/232) |
@@ -107,7 +108,9 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
 |BOJ 1715  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/266) |
+|BOJ 1981  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/289) |
 |BOJ 2042  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/270) |
+|BOJ 2357  | ⭕️ |  |  |  |
 |BOJ 2493  | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/287) |
 |BOJ_3190_뱀  | ⭕️ |  |  |  |
 
@@ -129,10 +132,14 @@
 |BOJ 1915   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/277) |
 |BOJ 1937   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/276) |
 |BOJ 2096   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/278) |
+|BOJ 2169   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/299) |
 |BOJ 2629   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/272) |
+|BOJ 5557   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/297) |
+|BOJ 7579   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/298) |
 |BOJ 9252   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/279) |
 |BOJ 12865   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/253) |
 |BOJ 17070   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/280) |
+|BOJ 14226   | ⭕️ |  |  |  |
 |BOJ_1463   | ⭕️ |  |  |  |
 |BOJ_9095   |  |  |  |  |
 |BOJ_1003   |  |  |  |  |
@@ -195,6 +202,7 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=141&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 14719   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/291) |
 |BOJ_12100   | ⭕️ |  |  |  |
 |BOJ_14503   | ⭕️ |  |  |  |
 |BOJ_15683   | ⭕️ |  |  |  |
