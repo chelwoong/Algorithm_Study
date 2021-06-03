@@ -155,6 +155,7 @@
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)| Swift|JS|PY|정리|
 |:---:    |:---:|:---:|:---:|:---:|
 |BOJ 1005  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/275) |
+|BOJ 2056  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/300) |
 |BOJ 1238  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/274) |
 |BOJ 1916  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/262) |
 |BOJ 11404  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/265) |
