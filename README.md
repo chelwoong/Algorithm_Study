@@ -158,6 +158,7 @@
 |BOJ 2056  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/300) |
 |BOJ 1238  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/274) |
 |BOJ 1916  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/262) |
+|BOJ 2668  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/) |
 |BOJ 11404  | ⭕️ |  | [🧑‍💻](https://woongsios.tistory.com/265) |
 
 # [Greedy](./Greedy)
@@ -244,6 +245,7 @@
 
 |[문제](https://www.acmicpc.net/problemset?sort=ac_desc&tier=9%2C10%2C11%2C12%2C13%2C14%2C15&algo=120&algo_if=and)| Swift|JS|PY|정리|
 |:---:|:---:|:---:|:---:|:---:|
+|BOJ 2250   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/302) |
 |BOJ_1068   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/244) |
 |BOJ_11437   | ⭕️ |  |  |  |
 |BOJ_2263   | ⭕️ |  |  | [🧑‍💻](https://woongsios.tistory.com/246) |
